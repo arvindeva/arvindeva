@@ -1,4 +1,4 @@
-# about
+## about
 
 i'm a fullstack software engineer based in the netherlands. i enjoy designing and building (mostly web) applications and creating great digital experience. my current preferred stack revolves around typescript, react, and go.
 
