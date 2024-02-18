@@ -1,17 +1,14 @@
-### hi there 👋
+# about
 
-hi, i'm arvin, a fullstack software engineer based in the netherlands. i enjoy designing and building (mostly web) applications and creating great digital experience. my current preferred stack revolves around typescript, react, and go.
-<!--
-**arvindeva/arvindeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm a fullstack software engineer based in the netherlands. i enjoy designing and building (mostly web) applications and creating great digital experience. my current preferred stack revolves around typescript, react, and go.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
+
+## 📈 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arvindeva&show_icons=true&hide_title=true)](https://github.com/arvindeva)
+
