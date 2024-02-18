@@ -1,5 +1,6 @@
-### Hi there 👋
+### hi there 👋
 
+hi, i'm arvin, a fullstack software engineer based in the netherlands. i enjoy designing and building (mostly web) applications and creating great digital experience. my current preferred stack revolves around typescript, react, and go.
 <!--
 **arvindeva/arvindeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
